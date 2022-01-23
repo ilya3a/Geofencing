@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeofencingAssignment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="permission_granted">Permission Granted</string>
+    <string name="permission_denied_explanation">MUST give a location Permission "Allow all the time"</string>
+    <string name="settings">settings</string>
+    <string name="added_geofence">Geofence added</string>
+    <string name="permission_rationale">please allow location permission</string>
+    <string name="ok">OK</string>
+    <string name="notification_title">Collecting geofence....</string>
+</resources>
